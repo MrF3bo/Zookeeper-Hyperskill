@@ -1,3 +1,3 @@
 # Zookeeper-Hyperskill
 
-The first project on python Project in Hyperskill.
+My first Python project on Hyperskill.
